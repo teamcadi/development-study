@@ -1,11 +1,7 @@
-# git-guide
+# git
 
-git 사용 방법 정리 레포지터리
-
-## 목차
-|이름|설명|
-|------|---|
-|0-2020_03_20-0. Git 설치|OS에서 Git 설치 과정|
-|1-2020_03_20-1. Git 사용자 정보 저장|Git 사용자 정보 저장 방법|
-|2-2020_03_20-2. Git 시작하기|Git으로 프로젝트 구성하는 방법|
-|3-2020_04_01-3. Git 브랜치|Git으로 프로젝트 구성하는 방법|
+- [0. Git 설치](https://teamcadi.kro.kr/develop/git?id=1)
+- [1. Git 사용자 정보 저장](https://teamcadi.kro.kr/develop/git?id=2)
+- [2. Git 시작하기](https://teamcadi.kro.kr/develop/git?id=3)
+- [3. Git 브랜치](https://teamcadi.kro.kr/develop/git?id=4)
+- [99. Git 프로젝트 배포 방법](https://teamcadi.kro.kr/develop/git?id=5)

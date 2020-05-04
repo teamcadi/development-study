@@ -1,5 +1,5 @@
-# vscode-tutorial
+# vscode
 
-- Repository 링크: https://github.com/gwangildev/vscode-tutorial.git   
-
-VSCode (Visual Studio Code) 플러그인 설치 및 사용 방법에 대해 정리해놓은 저장소입니다. 
+- [0. Docker를 사용하여 리눅스 개발 환경 만들기](https://teamcadi.kro.kr/develop/vscode?id=1)
+- [1. 파이썬 원격 개발 환경 만들기](https://teamcadi.kro.kr/develop/vscode?id=2)
+ 

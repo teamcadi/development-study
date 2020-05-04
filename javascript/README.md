@@ -1,5 +1,4 @@
-# javascript-tutorial
+# javascript
 
-- Repository 링크: https://github.com/gwangildev/javascript-tutorial.git   
-
-Javascript 사용 방법에 대해 정리해놓은 저장소입니다.
+- [0. JSON 포맷 사용하기](https://teamcadi.kro.kr/develop/javascript?id=1)
+- [1. Array (배열)](https://teamcadi.kro.kr/develop/javascript?id=2)
