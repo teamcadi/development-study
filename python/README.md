@@ -1,5 +1,4 @@
-# python-module-tutorial
+# python-module
 
-- Repository 링크: https://github.com/gwangildev/python-module-tutorial.git   
-
-Python 모듈 설치 및 사용 방법에 대해 정리해놓은 저장소입니다. 
+- [0. pyyaml 모듈 사용하기](https://teamcadi.kro.kr/develop/python?id=1)
+- [1. 파이썬 패키지 만들기](https://teamcadi.kro.kr/develop/python?id=2)

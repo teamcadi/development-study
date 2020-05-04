@@ -1,4 +1,5 @@
-# nodejs-module-tutorial
+# nodejs-module
 
-Repository 링크: https://github.com/gwangildev/nodejs-module-tutorial.git
-NodeJS 관련 모듈 설치 및 사용 방법에 대해 정리해놓은 저장소입니다.
+- [0. CORS 모듈 적용하기](https://teamcadi.kro.kr/develop/nodejs?id=1)
+- [1. Sequelize Findall 동기 적용](https://teamcadi.kro.kr/develop/nodejs?id=2)
+- [2. Path 경로 설정 방법](https://teamcadi.kro.kr/develop/nodejs?id=3)
