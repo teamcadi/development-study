@@ -5,7 +5,7 @@
   - Web
     - [0. Sitemap.xml 원리](https://github.com/gwangildev/development-study/blob/master/ETC/Web/000-2020_04_29-0.%20Sitemap_xml%20%EC%9B%90%EB%A6%AC.md)
 - CI/CD
-  - Bamboo
+  - Bamboo 
     - [0. Bamboo 설치하기](https://github.com/gwangildev/development-study/blob/master/CICD/Bamboo/000-2020_04_28-0.%20Bamboo%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.md)
     - [1. Plan 만들기](https://github.com/gwangildev/development-study/blob/master/CICD/Bamboo/001-2020_05_03-1.%20Plan%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 - electron_vue
